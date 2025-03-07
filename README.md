@@ -6,3 +6,4 @@
 
 - ⚡ Fun fact: I love cats 
 
+...and CS student of course.
