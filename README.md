@@ -1,7 +1,8 @@
 ## About me 👋
 
-CS student 🙋‍♀️
+CS student (what is cs ⁉️) 🙋‍♀️
 
-Exploring NetSec at the moment... let's see what happens here on GitHub 💻
+✅️ Likes: mangoes, chocolate, coding
+❌️ Dislikes: hotdogs, back pain, the smell of my neighbour
 
 Stay tuned (personal motivation)
